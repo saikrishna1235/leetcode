@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saikrishna1235/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/saikrishna1235/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saikrishna1235/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/saikrishna1235/leetcode/tree/master/0141-linked-list-cycle) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saikrishna1235/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/saikrishna1235/leetcode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/saikrishna1235/leetcode/tree/master/0147-insertion-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saikrishna1235/leetcode/tree/master/0876-middle-of-the-linked-list) |
