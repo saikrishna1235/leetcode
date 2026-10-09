@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saikrishna1235/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/saikrishna1235/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saikrishna1235/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saikrishna1235/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saikrishna1235/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saikrishna1235/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/saikrishna1235/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saikrishna1235/leetcode/tree/master/0088-merge-sorted-array) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/saikrishna1235/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saikrishna1235/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/saikrishna1235/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
