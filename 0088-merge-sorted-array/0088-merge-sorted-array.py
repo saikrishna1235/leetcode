@@ -7,20 +7,20 @@ class Solution(object):
         :type n: int
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
-        pointer1 = m - 1
-        pointer2 = n - 1
-        writer = m + n - 1
-        
-        while pointer1 > -1 and pointer2 > -1:
-            if nums1[pointer1] > nums2[pointer2]:
-                nums1[writer] = nums1[pointer1]
-                pointer1 -=1
+        first = 0
+        second = 0
+        result=[]
+        while first <m and second <n:
+            if nums1[first]<=nums2[second]:
+                result.append(nums1[first])
+                first+=1
             else:
-                nums1[writer] = nums2[pointer2]
-                pointer2 -=1
-            writer -=1
-
-        while pointer2 > -1:
-            nums1[writer] = nums2[pointer2]
-            pointer2 -=1
-            writer -=1
+                result.append(nums2[second])
+                second+=1
+        while first<m:
+            result.append(nums1[first])
+            first+=1
+        while second<n:
+            result.append(nums2[second])
+            second+=1
+        nums1[:]=result
