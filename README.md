@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saikrishna1235/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/saikrishna1235/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/saikrishna1235/leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/saikrishna1235/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saikrishna1235/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/saikrishna1235/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
