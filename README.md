@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saikrishna1235/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/saikrishna1235/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/saikrishna1235/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/saikrishna1235/leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/saikrishna1235/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
@@ -109,4 +110,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/saikrishna1235/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/saikrishna1235/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/saikrishna1235/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
