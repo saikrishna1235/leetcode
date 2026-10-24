@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/saikrishna1235/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saikrishna1235/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saikrishna1235/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/saikrishna1235/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/saikrishna1235/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/saikrishna1235/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/saikrishna1235/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saikrishna1235/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saikrishna1235/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/saikrishna1235/leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/saikrishna1235/leetcode/tree/master/0169-majority-element) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saikrishna1235/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/saikrishna1235/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/saikrishna1235/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/saikrishna1235/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/saikrishna1235/leetcode/tree/master/0496-next-greater-element-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saikrishna1235/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Quicksort
@@ -136,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/saikrishna1235/leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saikrishna1235/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saikrishna1235/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saikrishna1235/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
