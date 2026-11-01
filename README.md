@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/saikrishna1235/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saikrishna1235/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saikrishna1235/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/saikrishna1235/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/saikrishna1235/leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/saikrishna1235/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/saikrishna1235/leetcode/tree/master/0641-design-circular-deque) |
