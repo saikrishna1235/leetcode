@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/saikrishna1235/leetcode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/saikrishna1235/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saikrishna1235/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/saikrishna1235/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/saikrishna1235/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/saikrishna1235/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saikrishna1235/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/saikrishna1235/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saikrishna1235/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saikrishna1235/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/saikrishna1235/leetcode/tree/master/0509-fibonacci-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/saikrishna1235/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Design
 |  |
 | ------- |
