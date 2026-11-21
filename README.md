@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/saikrishna1235/leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/saikrishna1235/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/saikrishna1235/leetcode/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/saikrishna1235/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/saikrishna1235/leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/saikrishna1235/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/saikrishna1235/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saikrishna1235/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/saikrishna1235/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/saikrishna1235/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/saikrishna1235/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
