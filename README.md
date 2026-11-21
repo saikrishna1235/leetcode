@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saikrishna1235/leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/saikrishna1235/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saikrishna1235/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saikrishna1235/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/saikrishna1235/leetcode/tree/master/0509-fibonacci-number) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/saikrishna1235/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/saikrishna1235/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/saikrishna1235/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saikrishna1235/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saikrishna1235/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saikrishna1235/leetcode/tree/master/0213-house-robber-ii) |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/saikrishna1235/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/saikrishna1235/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
