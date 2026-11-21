@@ -12,4 +12,3 @@ class Solution(object):
             if sub != 0 and num % sub == 0:
                 count += 1  
         return count
-        
