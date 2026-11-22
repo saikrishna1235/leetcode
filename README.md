@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/saikrishna1235/leetcode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/saikrishna1235/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saikrishna1235/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/saikrishna1235/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/saikrishna1235/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sliding Window
 |  |
