@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/saikrishna1235/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/saikrishna1235/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saikrishna1235/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saikrishna1235/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/saikrishna1235/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saikrishna1235/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/saikrishna1235/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saikrishna1235/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/saikrishna1235/leetcode/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/saikrishna1235/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/saikrishna1235/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saikrishna1235/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -443,4 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/saikrishna1235/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saikrishna1235/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saikrishna1235/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
